@@ -19,3 +19,10 @@ This is an edit made through a fork and a different account.
 
 
 Edit acknowledging issue.
+
+
+
+
+
+
+This is an edit made locally through Git.
